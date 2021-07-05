@@ -1,43 +1,23 @@
-# android_quiz_app_C_plus_plus
-
-A very minimal, ad-free and offline app for playing quiz on C++ programming language.
-
-The quiz is divided into multiple chapters and each chapter is divided into sets. Each set contains 25 questions. 
-
-The current release of the app contains 500+ questions and more questions will be added in the subsequent releases.
-
-It is a completely offline app and does not collect any user data.
-
-Demo On Youtube: https://www.youtube.com/watch?v=CSBTuV4OJSE
-
-Play Store Link: https://play.google.com/store/apps/details?id=com.theminimaldeveloper.cquiz
-
-Download apk: https://github.com/nirajwagh/android_quiz_app_C_plus_plus/raw/master/Apk%20download/C%2B%2B%20Quiz.apk
 
 
-Screenshots:
+Multi-level Malayalam Bible Quiz. No Ads, No internet required. Each Questions included reference chapter for easy understanding. Selected and interesting 400 questions.
 
-Splash activity:
+Features:
 
-![Splash activity](https://github.com/nirajwagh/android_quiz_app_C_plus_plus/blob/master/Screenshots/1.png)
+Auto scoring.
+Re-try the levels as much as you like.
+Wrong answer indication Red.
+Correct answer indication Green.
+No repeated or random questions.
 
+This application has questions from Malayalam Bible organized level wise. Selected questions that you cannot find in any other quizzes. At present we have updated 400 Questions on this version 1.4. 1000 Questions updates is on the way. Test your knowledge of the Bible with these quizzes.
 
-Home activity:
+Instructions:
 
-![Home activity](https://github.com/nirajwagh/android_quiz_app_C_plus_plus/blob/master/Screenshots/2.png)
+Install the Malayalam Bible Quiz application.
+Each Level contains 4 Quiz set of 10 questions.
+Try to answer all 10 levels correctly.
+Achieve highest score - 400.
 
-
-Chapter sets activity:
-
-![Chapter sets activity](https://github.com/nirajwagh/android_quiz_app_C_plus_plus/blob/master/Screenshots/4.png)
-
-
-Questions activity:
-
-![Questions activity](https://github.com/nirajwagh/android_quiz_app_C_plus_plus/blob/master/Screenshots/5.png)
-
-
-Wrong answer:
-
-![Wrong answer](https://github.com/nirajwagh/android_quiz_app_C_plus_plus/blob/master/Screenshots/6.png)
-
+The purpose behind Bible Quiz is simply to spread the gospel and to make everyone perfect in Christ. It also aims at the continuous and systematic reading of Bible. Only Word of God can change our life. Our spiritual being should be nourished and cherished by the unchanging Word of God. Bible Quiz will bring about a good fellowship among us and it will be a great blessing.
+Start learning Bible with Our Quiz now! There a
