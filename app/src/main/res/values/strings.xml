@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Malayalam Bible Quiz</string>
+    <string name="quit">Quit</string>
+    <string name="wrong">Wrong Answer</string>
+    <string name="restart">Restart</string>
+    <string name="set_completed">This quiz set completed,Please quit and try next set.</string>
+    <string name="correct">Correct Answer</string>
+    <string name="next">Next</string>
+    <string name="back_button">Back Button</string>
+    <string name="c_quiz">Malayalam Bible Quiz</string>
+    <string name="l_o_a_d_i_n_g">Loading Questions</string>
+    <string name="sol_dev_quiz">Malayalam Bible Quiz Ver 1.4</string>
+    <string name="about">Help</string>
+    <string name="feedback_form">Feedback Form</string>
+    <string name="other_apps">Other Apps</string>
+    <string name="rate_app">Rate App</string>
+    <string name="download_questions">Download Answers</string>
+
+
+</resources>
